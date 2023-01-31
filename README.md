@@ -1,1 +1,1 @@
-# basicCRUD
+Creating a full CRUD app dealing with Products using Express, EJS and Mongoose
